@@ -1,6 +1,6 @@
 # 📱 Portfolio Builder App
 
-A mobile application that allows users to create and share professional developer portfolios by importing projects from GitHub or adding them manually.
+A web application that allows users to create and share professional developer portfolios by importing projects from GitHub or adding them manually.
 
 ---
 
